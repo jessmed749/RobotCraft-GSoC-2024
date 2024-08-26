@@ -1,7 +1,7 @@
 # Google Summer of Code 2024 @ Catrobat
 
 ## Robot Craft
-![Home Screen](GSoC_Assets/Backgrounds_and_Buttons/BackgroundHome.jpg)
+!(GSoC_Assets/Backgrounds_and_Buttons/BackgroundHome.jpg)
 
 ## Introduction
 
