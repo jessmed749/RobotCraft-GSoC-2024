@@ -55,10 +55,6 @@ To get started with **Robot Craft**:
 
 We welcome contributions to **Robot Craft**! If you have ideas for improvements or find any issues, please open an issue or submit a pull request. For more details on contributing, refer to the `CONTRIBUTING.md` file.
 
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for details.
-
 ## Acknowledgements
 
 Special thanks to the Google Summer of Code program and Pocket Code for supporting this project. Thank you to the community for their ongoing support and contributions.
