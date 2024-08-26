@@ -35,7 +35,7 @@ Armed with advanced tools and unwavering determination, Whiskers and his robocat
 
 ## Assets
 
-All game assets are located in the `assets` folder. You can import the `.catrobat` file into the Pocket Code app to play the game and explore its features.
+All game assets are located in the `GSoC Assests` folder. You can import the `.catrobat` file into the Pocket Code app to play the game and explore its features.
 
 ## Getting Started
 
