@@ -1,5 +1,7 @@
-# Robot Craft: Rebuild the Future
+# Google Summer of Code 2024 @ Catrobat
 
+## Robot Craft
+![Home Screen](GSoC Assests/Backgrounds & Buttons/BackgroundHome.jpg)
 ## Introduction
 
 Welcome to **Robot Craft**, an exciting educational adventure set in a future where the city of Tunaria has been left in ruins by a conflict between cats and robocats. This game, developed as part of Google's Summer of Code (GSoC) using Pocket Code, aims to introduce children to fundamental coding concepts through an engaging and interactive experience. Join Whiskers and his friends as they embark on a mission to restore their city and learn essential coding skills along the way!
