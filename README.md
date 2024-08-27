@@ -39,7 +39,7 @@ Armed with advanced tools and unwavering determination, Whiskers and his robocat
 
 ## Assets
 
-All game assets are located in the `GSoC Assests` folder. You can import the `.catrobat` file into the Pocket Code app to play the game and explore its features.
+All game assets are located in the `GSoC Assests` folder.
 
 ## Getting Started
 
@@ -51,13 +51,14 @@ To get started with **Robot Craft**:
     cd robot-craft
     ```
 
-2. Download the `.catrobat` file from the `assets` folder.
+2. Download the `.catrobat` file from the `game files` folder.
 
 3. Open the Pocket Code app and import the `.catrobat` file to start playing!
 
-## Contributing
+## Video Preview
 
-We welcome contributions to **Robot Craft**! If you have ideas for improvements or find any issues, please open an issue or submit a pull request. For more details on contributing, refer to the `CONTRIBUTING.md` file.
+Check out our gameplay video on YouTube to see **Robot Craft** in action:
+[Robot Craft Gameplay](https://youtu.be/PyYxXsV2D7E)
 
 ## Acknowledgements
 
