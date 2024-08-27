@@ -51,7 +51,7 @@ To get started with **Robot Craft**:
     cd robot-craft
     ```
 
-2. Download the `.catrobat` file from the `assets` folder.
+2. Download the `.catrobat` file from the `game files` folder.
 
 3. Open the Pocket Code app and import the `.catrobat` file to start playing!
 
