@@ -55,9 +55,10 @@ To get started with **Robot Craft**:
 
 3. Open the Pocket Code app and import the `.catrobat` file to start playing!
 
-## Contributing
+## Video Preview
 
-We welcome contributions to **Robot Craft**! If you have ideas for improvements or find any issues, please open an issue or submit a pull request. For more details on contributing, refer to the `CONTRIBUTING.md` file.
+Check out our gameplay video on YouTube to see **Robot Craft** in action:
+[Robot Craft Gameplay](https://youtu.be/PyYxXsV2D7E)
 
 ## Acknowledgements
 
