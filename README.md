@@ -64,6 +64,10 @@ Check out our gameplay video on YouTube to see **Robot Craft** in action:
 
 Special thanks to the Google Summer of Code program and Pocket Code for supporting this project. Thank you to the community for their ongoing support and contributions.
 
+## Music Credit
+
+The background music used in this game is copyright-free and titled “For background music of suspense and mystery solving games.(63739)” by Deep.
+
 ---
 
 Enjoy rebuilding Tunaria and learning to code with **Robot Craft**!
