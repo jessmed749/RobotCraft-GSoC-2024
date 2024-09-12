@@ -68,6 +68,9 @@ Special thanks to the Google Summer of Code program and Pocket Code for supporti
 
 The background music used in this game is copyright-free and titled “For background music of suspense and mystery solving games.(63739)” by Deep.
 
+## Collaborators
+Thank you for your collaboration! @jqwangbuilds
+
 ---
 
 Enjoy rebuilding Tunaria and learning to code with **Robot Craft**!
